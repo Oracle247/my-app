@@ -6,7 +6,7 @@
 
 .experience__container > div{
     background: var(--color-bg-variant);
-    padding: 2.4rem 5rem;
+    padding: 1.9rem 4rem;
     border: 1px solid transparent;
     border-radius: 2rem;
     display: flex;
@@ -50,7 +50,7 @@
     .experience__container > div{
         width: 80%;
         padding: 2rem;
-        margin: 2rem auto;
+        margin: 0 auto;
     }
 
     .experience__content{
@@ -61,7 +61,7 @@
 /* ============= MEDIA QUERIES (SMALL DEVICES) =============*/
 @media screen and (max-width: 600px){
     .experience__container{
-        gap: 1rem;
+        gap: 1.5rem;
     }
 
     .experience__container > div{
