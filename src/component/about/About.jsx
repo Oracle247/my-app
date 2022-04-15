@@ -1,6 +1,6 @@
 import React from 'react'
 import './about.css'
-import ME from '../../asset/itay-verchik-6ZKGBzrDd3I-unsplash.jpg'
+import ME from '../../asset/AirBrush_20220404083616.jpg'
 import {FaAward} from 'react-icons/fa'
 import {FiUsers} from 'react-icons/fi'
 import {VscFolderLibrary} from 'react-icons/vsc'
